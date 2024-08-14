@@ -11,10 +11,14 @@ POST http://localhost:3000/songs
 Content-Type: application/json
 
 {
-    "title": "lasting lover",
-    "artists": ["sigla"],
-    "releasedDate" : "2022-09-29",
-    "duration" :"02:34"
+"title": "lasting lover",
+"artists": [
+    "Siagla",
+    "Martin",
+    "John"
+],
+"releasedDate" : "2022-09-29",
+"duration" :"02:34"
 }
 
 
